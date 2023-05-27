@@ -17,3 +17,5 @@ To run all the writen code follow these steps:
 2) add set of factors in .tif format to the chosen data folder
 
 3) Run main.py algorithm
+
+You can try to run the algorithms on public data, such as this https://figshare.com/s/5436916184e60f533899
